@@ -1,4 +1,7 @@
 ## Hi there 👋
+### 🐍 Watch my contribution graph get eaten by a snake!
+
+![snake gif](https://raw.githubusercontent.com/Vinit666/Vinit666/output/github-contribution-grid-snake.svg)
 
 <!--
 **Vinit666/Vinit666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
