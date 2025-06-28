@@ -1,6 +1,5 @@
 ## Hi there 👋
-![snake gif](https://raw.githubusercontent.com/Vinit666/snk/output/github-contribution-grid-snake.svg)
-
+## ![snake gif](https://raw.githubusercontent.com/Vinit666/snk/output/github-contribution-grid-snake.svg)
 
 <!--
 **Vinit666/Vinit666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
